@@ -1,0 +1,12 @@
+# BLASTP 2.14.0+
+# Query: ENST00000679869.1 (BRD4) length=1362
+# Database: hw2_data/proteomes/thermococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+ENST00000679869.1	WP_011249043.1	31.731	104	61	5	1203	1297	128	230	0.12	32.0
+ENST00000679869.1	WP_011249454.1	36.957	46	29	0	558	603	64	109	0.50	30.0
+ENST00000679869.1	WP_011250550.1	32.558	43	27	1	1267	1307	25	67	3.5	26.9
+ENST00000679869.1	WP_011251202.1	36.842	38	24	0	1227	1264	20	57	4.9	26.9
+ENST00000679869.1	WP_011249913.1	28.947	38	27	0	149	186	1	38	7.7	25.0
+ENST00000679869.1	WP_011250060.1	47.059	17	9	0	106	122	181	197	8.0	26.2
+# BLAST processed 1 queries

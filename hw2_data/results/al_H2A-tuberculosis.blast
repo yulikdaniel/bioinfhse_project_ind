@@ -1,0 +1,488 @@
+# BLASTP 2.14.0+
+# Query: NP_734466.1 H2AC1 [organism=Homo sapiens] [GeneID=221613]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_734466.1	NP_218411.1	44.000	25	14	0	98	122	916	940	0.40	27.3
+NP_734466.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.58	26.6
+NP_734466.1	NP_217573.1	26.667	60	44	0	43	102	183	242	1.9	25.0
+NP_734466.1	NP_217831.1	29.032	62	43	1	17	77	236	297	2.1	25.0
+NP_734466.1	NP_217483.1	76.923	13	3	0	60	72	107	119	5.1	23.9
+NP_734466.1	NP_216182.1	50.000	22	10	1	20	41	391	411	6.0	23.5
+NP_734466.1	NP_215167.1	32.558	43	24	1	31	68	140	182	8.5	23.1
+# BLASTP 2.14.0+
+# Query: XP_011542036.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X4]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+XP_011542036.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.40	28.1
+XP_011542036.1	NP_215186.1	30.986	71	43	3	123	192	146	211	1.3	26.6
+XP_011542036.1	NP_218111.1	40.000	25	15	0	120	144	187	211	2.4	25.4
+XP_011542036.1	YP_009030044.1	31.034	29	20	0	65	93	41	69	8.5	22.7
+XP_011542036.1	NP_217518.1	31.579	38	24	2	92	128	102	138	8.6	23.5
+# BLASTP 2.14.0+
+# Query: XP_054209812.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X5]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+XP_054209812.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.42	28.1
+XP_054209812.1	NP_215186.1	32.857	70	42	3	123	191	146	211	0.94	26.9
+XP_054209812.1	NP_217786.1	34.146	41	27	0	136	176	32	72	1.0	25.8
+XP_054209812.1	NP_216640.1	30.233	43	30	0	133	175	858	900	2.3	25.8
+XP_054209812.1	NP_218111.1	40.000	25	15	0	120	144	187	211	2.5	25.4
+XP_054209812.1	YP_009030044.1	31.034	29	20	0	65	93	41	69	8.5	22.7
+XP_054209812.1	NP_217518.1	31.579	38	24	2	92	128	102	138	8.9	23.5
+# BLASTP 2.14.0+
+# Query: NP_066390.1 H2AC8 [organism=Homo sapiens] [GeneID=3012]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_066390.1	NP_217831.1	28.723	94	55	3	17	109	236	318	0.35	27.3
+NP_066390.1	YP_177851.1	30.303	66	27	1	44	109	239	285	1.7	25.0
+NP_066390.1	NP_216000.1	52.174	23	11	0	84	106	61	83	1.7	25.0
+NP_066390.1	NP_218411.1	38.462	26	16	0	97	122	915	940	3.3	24.6
+NP_066390.1	NP_215267.1	35.417	48	27	2	6	51	90	135	7.9	23.1
+NP_066390.1	NP_218437.1	25.806	93	47	4	8	100	17	87	8.1	23.1
+# BLASTP 2.14.0+
+# Query: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_001387330.1	NP_216415.1	22.699	163	120	2	190	350	164	322	5.29e-09	53.9
+NP_001387330.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.60	28.9
+NP_001387330.1	NP_215186.1	30.986	71	43	3	123	192	146	211	2.4	26.9
+NP_001387330.1	NP_218111.1	22.680	97	56	3	120	211	187	269	3.3	26.2
+NP_001387330.1	NP_216973.1	35.294	34	22	0	280	313	32	65	3.5	26.6
+NP_001387330.1	NP_214971.1	30.303	66	35	2	164	229	220	274	4.3	26.2
+NP_001387330.1	NP_216656.1	28.049	82	50	4	197	276	64	138	5.7	25.4
+# BLASTP 2.14.0+
+# Query: XP_054209810.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X3]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_054209810.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.46	28.1
+XP_054209810.1	NP_215186.1	32.857	70	42	3	123	191	146	211	0.92	26.9
+XP_054209810.1	NP_217786.1	34.146	41	27	0	136	176	32	72	0.97	25.8
+XP_054209810.1	NP_216640.1	30.233	43	30	0	133	175	858	900	2.4	25.8
+XP_054209810.1	NP_218111.1	40.000	25	15	0	120	144	187	211	3.6	25.0
+XP_054209810.1	YP_009030044.1	31.034	29	20	0	65	93	41	69	8.7	22.7
+XP_054209810.1	NP_217518.1	31.579	38	24	2	92	128	102	138	9.1	23.5
+XP_054209810.1	NP_218298.1	40.816	49	26	1	132	180	19	64	9.5	23.9
+XP_054209810.1	NP_218349.1	25.000	36	27	0	156	191	71	106	9.9	23.5
+# BLASTP 2.14.0+
+# Query: NP_001387332.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=4]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_001387332.1	NP_216415.1	25.658	152	109	1	195	346	175	322	5.97e-12	63.2
+NP_001387332.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.65	28.9
+NP_001387332.1	NP_217786.1	34.146	41	27	0	136	176	32	72	2.0	25.8
+NP_001387332.1	NP_215186.1	32.857	70	42	3	123	191	146	211	2.1	27.3
+NP_001387332.1	NP_214816.1	21.000	100	61	2	155	252	5	88	2.8	26.6
+NP_001387332.1	NP_216973.1	35.294	34	22	0	276	309	32	65	2.8	26.6
+NP_001387332.1	NP_216640.1	23.871	155	93	5	35	175	757	900	3.0	26.9
+NP_001387332.1	NP_216628.1	32.895	76	35	4	172	243	474	537	3.6	26.6
+NP_001387332.1	NP_218111.1	34.483	29	19	0	120	148	187	215	3.9	26.2
+# BLASTP 2.14.0+
+# Query: NP_036544.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=1]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+NP_036544.1	NP_215227.1	27.778	54	37	1	19	72	122	173	0.30	27.3
+NP_036544.1	NP_217483.1	30.357	56	37	1	63	118	107	160	2.9	24.6
+# BLASTP 2.14.0+
+# Query: NP_066544.1 H2AC14 [organism=Homo sapiens] [GeneID=8331]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_066544.1	NP_217831.1	26.786	112	64	4	17	127	236	330	0.43	26.9
+NP_066544.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.48	26.9
+NP_066544.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.4	24.3
+NP_066544.1	YP_177851.1	28.788	66	28	1	44	109	239	285	3.7	24.3
+NP_066544.1	NP_216182.1	50.000	22	10	1	20	41	391	411	4.9	23.9
+NP_066544.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.2	23.5
+NP_066544.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.0	23.1
+# BLASTP 2.14.0+
+# Query: XP_054209811.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X4]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+XP_054209811.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.40	28.1
+XP_054209811.1	NP_215186.1	30.986	71	43	3	123	192	146	211	1.3	26.6
+XP_054209811.1	NP_218111.1	40.000	25	15	0	120	144	187	211	2.4	25.4
+XP_054209811.1	YP_009030044.1	31.034	29	20	0	65	93	41	69	8.5	22.7
+XP_054209811.1	NP_217518.1	31.579	38	24	2	92	128	102	138	8.6	23.5
+# BLASTP 2.14.0+
+# Query: NP_619541.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=2]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+NP_619541.1	NP_215227.1	27.778	54	37	1	19	72	122	173	0.16	27.7
+NP_619541.1	NP_217483.1	57.895	19	8	0	63	81	107	125	3.3	24.3
+NP_619541.1	YP_177890.1	31.707	41	23	2	76	114	168	205	5.7	23.1
+NP_619541.1	NP_218317.1	36.842	38	14	1	30	57	1312	1349	7.8	23.1
+# BLASTP 2.14.0+
+# Query: NP_066409.1 H2AC7 [organism=Homo sapiens] [GeneID=3013]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_066409.1	NP_217831.1	27.660	94	56	3	17	109	236	318	0.97	25.8
+NP_066409.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.5	24.3
+NP_066409.1	YP_177851.1	28.788	66	28	1	44	109	239	285	4.3	23.9
+NP_066409.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.4	23.5
+NP_066409.1	NP_215267.1	35.417	48	27	2	6	51	90	135	7.8	23.1
+# BLASTP 2.14.0+
+# Query: NP_003503.1 H2AC6 [organism=Homo sapiens] [GeneID=8334]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_003503.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.45	26.9
+NP_003503.1	NP_217831.1	28.736	87	50	3	24	109	243	318	0.63	26.6
+NP_003503.1	YP_177851.1	30.303	66	27	1	44	109	239	285	1.7	25.0
+NP_003503.1	NP_216000.1	52.174	23	11	0	84	106	61	83	1.7	25.0
+NP_003503.1	NP_218411.1	38.462	26	16	0	97	122	915	940	3.4	24.3
+NP_003503.1	NP_216182.1	50.000	22	10	1	20	41	391	411	5.4	23.9
+NP_003503.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.3	23.1
+NP_003503.1	NP_215267.1	35.417	48	27	2	6	51	90	135	9.2	23.1
+# BLASTP 2.14.0+
+# Query: NP_808760.1 H2AJ [organism=Homo sapiens] [GeneID=55766]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_808760.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.49	26.9
+NP_808760.1	NP_217831.1	27.586	87	51	3	24	109	243	318	1.5	25.4
+NP_808760.1	YP_177851.1	28.788	66	28	1	44	109	239	285	3.0	24.3
+NP_808760.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.5	24.3
+NP_808760.1	NP_216000.1	47.826	23	12	0	84	106	61	83	4.3	23.9
+NP_808760.1	NP_216182.1	50.000	22	10	1	20	41	391	411	4.5	23.9
+NP_808760.1	NP_215267.1	35.417	48	27	2	6	51	90	135	7.1	23.5
+NP_808760.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.2	23.1
+NP_808760.1	NP_218019.1	36.842	38	17	1	4	41	152	182	8.8	23.1
+# BLASTP 2.14.0+
+# Query: NP_003505.1 H2AC17 [organism=Homo sapiens] [GeneID=8336]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_003505.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.43	26.9
+NP_003505.1	NP_217831.1	27.660	94	56	3	17	109	236	318	0.80	26.2
+NP_003505.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.6	24.3
+NP_003505.1	YP_177851.1	28.788	66	28	1	44	109	239	285	4.2	23.9
+NP_003505.1	NP_216182.1	50.000	22	10	1	20	41	391	411	5.0	23.9
+NP_003505.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.4	23.5
+NP_003505.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.3	23.1
+# BLASTP 2.14.0+
+# Query: NP_003502.1 H2AC16 [organism=Homo sapiens] [GeneID=8332]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_003502.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.43	26.9
+NP_003502.1	NP_217831.1	27.660	94	56	3	17	109	236	318	0.80	26.2
+NP_003502.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.6	24.3
+NP_003502.1	YP_177851.1	28.788	66	28	1	44	109	239	285	4.2	23.9
+NP_003502.1	NP_216182.1	50.000	22	10	1	20	41	391	411	5.0	23.9
+NP_003502.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.4	23.5
+NP_003502.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.3	23.1
+# BLASTP 2.14.0+
+# Query: NP_004884.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=2]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_004884.1	NP_216415.1	22.699	163	120	2	189	349	164	322	4.94e-09	53.9
+NP_004884.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.62	28.9
+NP_004884.1	NP_215186.1	32.857	70	42	3	123	191	146	211	1.8	27.3
+NP_004884.1	NP_217786.1	34.146	41	27	0	136	176	32	72	2.3	25.8
+NP_004884.1	NP_216640.1	23.871	155	93	5	35	175	757	900	3.0	26.9
+NP_004884.1	NP_216973.1	35.294	34	22	0	279	312	32	65	3.4	26.6
+NP_004884.1	NP_218111.1	34.483	29	19	0	120	148	187	215	3.8	26.2
+NP_004884.1	NP_214971.1	31.579	38	26	0	191	228	237	274	4.2	26.2
+NP_004884.1	NP_216656.1	28.049	82	50	4	196	275	64	138	5.9	25.4
+# BLASTP 2.14.0+
+# Query: NP_003504.2 H2AC4 [organism=Homo sapiens] [GeneID=8335]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_003504.2	NP_217831.1	28.723	94	55	3	17	109	236	318	0.35	27.3
+NP_003504.2	YP_177851.1	30.303	66	27	1	44	109	239	285	1.7	25.0
+NP_003504.2	NP_216000.1	52.174	23	11	0	84	106	61	83	1.7	25.0
+NP_003504.2	NP_218411.1	38.462	26	16	0	97	122	915	940	3.3	24.6
+NP_003504.2	NP_215267.1	35.417	48	27	2	6	51	90	135	7.9	23.1
+NP_003504.2	NP_218437.1	25.806	93	47	4	8	100	17	87	8.1	23.1
+# BLASTP 2.14.0+
+# Query: NP_066408.1 H2AC11 [organism=Homo sapiens] [GeneID=8969]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_066408.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.43	26.9
+NP_066408.1	NP_217831.1	27.660	94	56	3	17	109	236	318	0.80	26.2
+NP_066408.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.6	24.3
+NP_066408.1	YP_177851.1	28.788	66	28	1	44	109	239	285	4.2	23.9
+NP_066408.1	NP_216182.1	50.000	22	10	1	20	41	391	411	5.0	23.9
+NP_066408.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.4	23.5
+NP_066408.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.3	23.1
+# BLASTP 2.14.0+
+# Query: NP_003507.1 H2AC18 [organism=Homo sapiens] [GeneID=8337]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003507.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.43	26.9
+NP_003507.1	NP_214515.1	34.000	50	28	1	48	97	413	457	7.7	23.1
+NP_003507.1	NP_217831.1	32.727	55	36	1	24	77	243	297	1.6	25.4
+NP_003507.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.6	24.3
+NP_003507.1	NP_216182.1	50.000	22	10	1	20	41	391	411	4.8	23.9
+NP_003507.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.3	23.5
+NP_003507.1	NP_215267.1	35.417	48	27	2	6	51	90	135	8.5	23.1
+NP_003507.1	YP_177851.1	27.273	66	29	1	44	109	239	285	8.7	23.1
+NP_003507.1	NP_215167.1	34.884	43	23	1	31	68	140	182	9.2	22.7
+# BLASTP 2.14.0+
+# Query: XP_011542032.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X1]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_011542032.1	NP_216415.1	22.699	163	120	2	189	349	164	322	4.94e-09	53.9
+XP_011542032.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.62	28.9
+XP_011542032.1	NP_215186.1	32.857	70	42	3	123	191	146	211	1.8	27.3
+XP_011542032.1	NP_217786.1	34.146	41	27	0	136	176	32	72	2.3	25.8
+XP_011542032.1	NP_216640.1	23.871	155	93	5	35	175	757	900	3.0	26.9
+XP_011542032.1	NP_216973.1	35.294	34	22	0	279	312	32	65	3.4	26.6
+XP_011542032.1	NP_218111.1	34.483	29	19	0	120	148	187	215	3.8	26.2
+XP_011542032.1	NP_214971.1	31.579	38	26	0	191	228	237	274	4.2	26.2
+XP_011542032.1	NP_216656.1	28.049	82	50	4	196	275	64	138	5.9	25.4
+# BLASTP 2.14.0+
+# Query: NP_001387333.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=5]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_001387333.1	NP_216415.1	23.729	118	86	1	61	178	209	322	2.96e-06	43.5
+NP_001387333.1	NP_216973.1	35.294	34	22	0	108	141	32	65	1.3	26.6
+NP_001387333.1	NP_215442.1	36.364	44	22	2	32	69	210	253	2.6	25.4
+NP_001387333.1	NP_216180.1	45.833	24	13	0	85	108	725	748	6.1	24.6
+NP_001387333.1	YP_177692.1	27.778	36	26	0	116	151	99	134	7.6	24.3
+NP_001387333.1	NP_217293.1	29.412	34	24	0	129	162	241	274	8.5	23.9
+NP_001387333.1	NP_217687.1	43.333	30	15	1	128	157	44	71	9.4	23.9
+# BLASTP 2.14.0+
+# Query: XP_011542037.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X5]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+XP_011542037.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.42	28.1
+XP_011542037.1	NP_215186.1	32.857	70	42	3	123	191	146	211	0.94	26.9
+XP_011542037.1	NP_217786.1	34.146	41	27	0	136	176	32	72	1.0	25.8
+XP_011542037.1	NP_216640.1	30.233	43	30	0	133	175	858	900	2.3	25.8
+XP_011542037.1	NP_218111.1	40.000	25	15	0	120	144	187	211	2.5	25.4
+XP_011542037.1	YP_009030044.1	31.034	29	20	0	65	93	41	69	8.5	22.7
+XP_011542037.1	NP_217518.1	31.579	38	24	2	92	128	102	138	8.9	23.5
+# BLASTP 2.14.0+
+# Query: NP_001035248.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=2]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_001035248.1	NP_216415.1	22.699	163	120	2	189	349	164	322	4.94e-09	53.9
+NP_001035248.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.62	28.9
+NP_001035248.1	NP_215186.1	32.857	70	42	3	123	191	146	211	1.8	27.3
+NP_001035248.1	NP_217786.1	34.146	41	27	0	136	176	32	72	2.3	25.8
+NP_001035248.1	NP_216640.1	23.871	155	93	5	35	175	757	900	3.0	26.9
+NP_001035248.1	NP_216973.1	35.294	34	22	0	279	312	32	65	3.4	26.6
+NP_001035248.1	NP_218111.1	34.483	29	19	0	120	148	187	215	3.8	26.2
+NP_001035248.1	NP_214971.1	31.579	38	26	0	191	228	237	274	4.2	26.2
+NP_001035248.1	NP_216656.1	28.049	82	50	4	196	275	64	138	5.9	25.4
+# BLASTP 2.14.0+
+# Query: XP_054209809.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X2]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+XP_054209809.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.44	28.1
+XP_054209809.1	NP_215186.1	30.986	71	43	3	123	192	146	211	1.3	26.6
+XP_054209809.1	NP_218111.1	40.000	25	15	0	120	144	187	211	3.4	25.0
+XP_054209809.1	YP_009030044.1	34.375	32	20	1	63	93	38	69	8.8	22.7
+XP_054209809.1	NP_214852.1	25.714	105	45	4	95	198	807	879	8.9	24.3
+XP_054209809.1	NP_217518.1	31.579	38	24	2	92	128	102	138	9.2	23.5
+XP_054209809.1	NP_218298.1	50.000	28	14	0	132	159	19	46	9.5	23.9
+# BLASTP 2.14.0+
+# Query: NP_958925.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=5]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+NP_958925.1	NP_215786.1	31.250	48	28	1	9	56	30	72	0.92	25.0
+NP_958925.1	NP_216432.1	35.897	39	25	0	12	50	257	295	3.2	23.5
+# BLASTP 2.14.0+
+# Query: NP_958924.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=4]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_958924.1	NP_215227.1	41.667	24	14	0	26	49	129	152	0.14	26.2
+NP_958924.1	NP_218317.1	36.842	38	14	1	30	57	1312	1349	1.7	23.5
+NP_958924.1	NP_217735.1	56.250	16	7	0	16	31	6	21	2.7	22.3
+NP_958924.1	YP_177620.1	30.769	52	35	1	2	53	30	80	4.2	21.9
+NP_958924.1	NP_218196.1	43.333	30	16	1	34	62	74	103	5.2	21.9
+NP_958924.1	NP_215422.1	40.741	27	13	1	7	33	33	56	6.1	21.6
+NP_958924.1	NP_218065.1	42.857	28	16	0	5	32	144	171	8.7	21.2
+# BLASTP 2.14.0+
+# Query: NP_003508.1 H2AC20 [organism=Homo sapiens] [GeneID=8338]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003508.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.46	26.9
+NP_003508.1	NP_214515.1	34.000	50	28	1	48	97	413	457	8.3	23.1
+NP_003508.1	NP_217831.1	27.586	87	51	3	24	109	243	318	1.4	25.4
+NP_003508.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.5	24.3
+NP_003508.1	NP_216000.1	47.826	23	12	0	84	106	61	83	4.7	23.9
+NP_003508.1	NP_216182.1	50.000	22	10	1	20	41	391	411	4.9	23.9
+NP_003508.1	YP_177851.1	27.273	66	29	1	44	109	239	285	6.5	23.5
+NP_003508.1	NP_215267.1	35.417	48	27	2	6	51	90	135	8.1	23.1
+NP_003508.1	NP_215167.1	34.884	43	23	1	31	68	140	182	9.2	22.7
+# BLASTP 2.14.0+
+# Query: NP_002096.1 H2AX [organism=Homo sapiens] [GeneID=3014]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_002096.1	NP_218411.1	43.478	23	13	0	98	120	916	938	1.5	25.8
+NP_002096.1	NP_217831.1	32.727	55	36	1	24	77	243	297	1.8	25.4
+NP_002096.1	NP_217004.1	27.586	58	40	1	14	69	932	989	2.5	25.0
+NP_002096.1	NP_214515.1	30.612	49	29	1	28	76	212	255	3.0	24.6
+NP_002096.1	NP_217573.1	26.667	60	44	0	43	102	183	242	5.3	23.9
+NP_002096.1	NP_216897.1	41.379	29	16	1	37	65	280	307	6.4	23.9
+NP_002096.1	NP_215682.1	39.130	23	14	0	110	132	500	522	7.0	23.5
+# BLASTP 2.14.0+
+# Query: NP_542451.1 H2AB3 [organism=Homo sapiens] [GeneID=83740]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+NP_542451.1	NP_216934.1	43.243	37	20	1	33	69	108	143	0.51	26.2
+NP_542451.1	NP_216479.1	27.778	72	46	3	20	91	281	346	3.3	23.9
+NP_542451.1	NP_217758.3	33.333	48	22	2	16	57	81	124	8.8	22.7
+# BLASTP 2.14.0+
+# Query: NP_001387331.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_001387331.1	NP_216415.1	22.699	163	120	2	190	350	164	322	5.29e-09	53.9
+NP_001387331.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.60	28.9
+NP_001387331.1	NP_215186.1	30.986	71	43	3	123	192	146	211	2.4	26.9
+NP_001387331.1	NP_218111.1	22.680	97	56	3	120	211	187	269	3.3	26.2
+NP_001387331.1	NP_216973.1	35.294	34	22	0	280	313	32	65	3.5	26.6
+NP_001387331.1	NP_214971.1	30.303	66	35	2	164	229	220	274	4.3	26.2
+NP_001387331.1	NP_216656.1	28.049	82	50	4	197	276	64	138	5.7	25.4
+# BLASTP 2.14.0+
+# Query: NP_061119.1 MACROH2A2 [organism=Homo sapiens] [GeneID=55506]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_061119.1	NP_217483.1	37.255	51	29	1	57	107	107	154	0.099	31.6
+NP_061119.1	NP_215008.2	34.884	43	19	1	213	255	86	119	1.5	27.3
+NP_061119.1	NP_216178.1	41.463	41	24	0	176	216	824	864	1.7	27.7
+NP_061119.1	NP_217974.1	25.000	96	63	2	179	270	28	118	4.6	25.8
+NP_061119.1	NP_217774.1	31.325	83	50	4	47	124	228	308	7.1	25.4
+# BLASTP 2.14.0+
+# Query: NP_613258.2 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_613258.2	NP_216415.1	22.699	163	120	2	190	350	164	322	5.29e-09	53.9
+NP_613258.2	NP_217483.1	33.333	51	31	1	57	107	107	154	0.60	28.9
+NP_613258.2	NP_215186.1	30.986	71	43	3	123	192	146	211	2.4	26.9
+NP_613258.2	NP_218111.1	22.680	97	56	3	120	211	187	269	3.3	26.2
+NP_613258.2	NP_216973.1	35.294	34	22	0	280	313	32	65	3.5	26.6
+NP_613258.2	NP_214971.1	30.303	66	35	2	164	229	220	274	4.3	26.2
+NP_613258.2	NP_216656.1	28.049	82	50	4	197	276	64	138	5.7	25.4
+# BLASTP 2.14.0+
+# Query: XP_005272191.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X2]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+XP_005272191.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.44	28.1
+XP_005272191.1	NP_215186.1	30.986	71	43	3	123	192	146	211	1.3	26.6
+XP_005272191.1	NP_218111.1	40.000	25	15	0	120	144	187	211	3.4	25.0
+XP_005272191.1	YP_009030044.1	34.375	32	20	1	63	93	38	69	8.8	22.7
+XP_005272191.1	NP_214852.1	25.714	105	45	4	95	198	807	879	8.9	24.3
+XP_005272191.1	NP_217518.1	31.579	38	24	2	92	128	102	138	9.2	23.5
+XP_005272191.1	NP_218298.1	50.000	28	14	0	132	159	19	46	9.5	23.9
+# BLASTP 2.14.0+
+# Query: NP_613075.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=1]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_613075.1	NP_216415.1	25.658	152	109	1	196	347	175	322	6.65e-12	62.8
+NP_613075.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.64	28.9
+NP_613075.1	NP_216973.1	35.294	34	22	0	277	310	32	65	2.8	26.6
+NP_613075.1	NP_215186.1	30.986	71	43	3	123	192	146	211	3.0	26.6
+NP_613075.1	NP_214816.1	21.212	99	60	2	157	253	6	88	3.0	26.2
+NP_613075.1	NP_216628.1	32.895	76	35	4	173	244	474	537	3.6	26.6
+NP_613075.1	NP_218111.1	24.510	102	60	4	120	218	187	274	3.8	26.2
+# BLASTP 2.14.0+
+# Query: NP_003501.1 H2AC15 [organism=Homo sapiens] [GeneID=8330]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_003501.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.43	26.9
+NP_003501.1	NP_217831.1	27.660	94	56	3	17	109	236	318	0.80	26.2
+NP_003501.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.6	24.3
+NP_003501.1	YP_177851.1	28.788	66	28	1	44	109	239	285	4.2	23.9
+NP_003501.1	NP_216182.1	50.000	22	10	1	20	41	391	411	5.0	23.9
+NP_003501.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.4	23.5
+NP_003501.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.3	23.1
+# BLASTP 2.14.0+
+# Query: NP_003500.1 H2AC13 [organism=Homo sapiens] [GeneID=8329]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_003500.1	NP_214515.1	32.653	49	28	1	28	76	212	255	0.43	26.9
+NP_003500.1	NP_217831.1	27.660	94	56	3	17	109	236	318	0.80	26.2
+NP_003500.1	NP_218411.1	40.000	25	15	0	98	122	916	940	3.6	24.3
+NP_003500.1	YP_177851.1	28.788	66	28	1	44	109	239	285	4.2	23.9
+NP_003500.1	NP_216182.1	50.000	22	10	1	20	41	391	411	5.0	23.9
+NP_003500.1	NP_216000.1	47.826	23	12	0	84	106	61	83	5.4	23.5
+NP_003500.1	NP_215167.1	34.884	43	23	1	31	68	140	182	8.3	23.1
+# BLASTP 2.14.0+
+# Query: NP_958844.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=3]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+NP_958844.1	NP_217483.1	30.357	56	37	1	37	92	107	160	0.93	25.4
+NP_958844.1	NP_215227.1	28.889	45	30	1	2	46	131	173	5.9	23.1
+NP_958844.1	NP_216740.1	31.373	51	30	1	6	51	315	365	6.0	23.1
+NP_958844.1	NP_218317.1	36.842	38	14	1	4	31	1312	1349	9.9	22.3
+# BLASTP 2.14.0+
+# Query: XP_054209808.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X1]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_054209808.1	NP_216415.1	22.699	163	120	2	189	349	164	322	4.94e-09	53.9
+XP_054209808.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.62	28.9
+XP_054209808.1	NP_215186.1	32.857	70	42	3	123	191	146	211	1.8	27.3
+XP_054209808.1	NP_217786.1	34.146	41	27	0	136	176	32	72	2.3	25.8
+XP_054209808.1	NP_216640.1	23.871	155	93	5	35	175	757	900	3.0	26.9
+XP_054209808.1	NP_216973.1	35.294	34	22	0	279	312	32	65	3.4	26.6
+XP_054209808.1	NP_218111.1	34.483	29	19	0	120	148	187	215	3.8	26.2
+XP_054209808.1	NP_214971.1	31.579	38	26	0	191	228	237	274	4.2	26.2
+XP_054209808.1	NP_216656.1	28.049	82	50	4	196	275	64	138	5.9	25.4
+# BLASTP 2.14.0+
+# Query: NP_002097.1 H2AZ1 [organism=Homo sapiens] [GeneID=3015]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+NP_002097.1	NP_215227.1	25.926	54	38	1	19	72	122	173	0.72	26.2
+NP_002097.1	NP_217483.1	30.357	56	37	1	63	118	107	160	2.7	24.6
+NP_002097.1	NP_216176.1	38.235	34	20	1	95	128	96	128	7.5	23.1
+# BLASTP 2.14.0+
+# Query: NP_001017990.1 H2AB1 [organism=Homo sapiens] [GeneID=474382]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+NP_001017990.1	NP_217758.3	33.898	59	25	3	16	68	81	131	5.3	23.1
+NP_001017990.1	NP_216479.1	27.778	72	46	3	20	91	281	346	7.8	23.1
+NP_001017990.1	NP_216934.1	41.176	34	19	1	33	66	108	140	8.9	22.7
+# BLASTP 2.14.0+
+# Query: XP_005272192.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X3]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_005272192.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.46	28.1
+XP_005272192.1	NP_215186.1	32.857	70	42	3	123	191	146	211	0.92	26.9
+XP_005272192.1	NP_217786.1	34.146	41	27	0	136	176	32	72	0.97	25.8
+XP_005272192.1	NP_216640.1	30.233	43	30	0	133	175	858	900	2.4	25.8
+XP_005272192.1	NP_218111.1	40.000	25	15	0	120	144	187	211	3.6	25.0
+XP_005272192.1	YP_009030044.1	31.034	29	20	0	65	93	41	69	8.7	22.7
+XP_005272192.1	NP_217518.1	31.579	38	24	2	92	128	102	138	9.1	23.5
+XP_005272192.1	NP_218298.1	40.816	49	26	1	132	180	19	64	9.5	23.9
+XP_005272192.1	NP_218349.1	25.000	36	27	0	156	191	71	106	9.9	23.5
+# BLAST processed 42 queries

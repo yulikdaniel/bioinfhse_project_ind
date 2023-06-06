@@ -1,0 +1,191 @@
+# BLASTP 2.14.0+
+# Query: NP_003521.2 H3C4 [organism=Homo sapiens] [GeneID=8351]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003521.2	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003521.2	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003521.2	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003521.2	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003521.2	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003521.2	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003521.2	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003521.2	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003521.2	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003522.1 H3C3 [organism=Homo sapiens] [GeneID=8352]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003522.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003522.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003522.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003522.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003522.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003522.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003522.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003522.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003522.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003526.1 H3C12 [organism=Homo sapiens] [GeneID=8356]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003526.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003526.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003526.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003526.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003526.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003526.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003526.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003526.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003526.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_066298.1 H3C7 [organism=Homo sapiens] [GeneID=8968]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_066298.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_066298.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_066298.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_066298.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_066298.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_066298.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_066298.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_066298.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_066298.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_066403.2 H3C14 [organism=Homo sapiens] [GeneID=126961]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_066403.2	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.078	26.6
+NP_066403.2	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.096	26.2
+NP_066403.2	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.58	25.0
+NP_066403.2	WP_015791149.1	50.000	16	8	0	111	126	48	63	0.82	24.6
+NP_066403.2	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.5	22.3
+NP_066403.2	WP_015791106.1	27.692	65	43	1	69	133	354	414	7.0	21.9
+# BLASTP 2.14.0+
+# Query: NP_001368928.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_001368928.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_001368928.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_001368928.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_001368928.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_001368928.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_001368928.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_001368928.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_001368928.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_001368928.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003484.1 H3-4 [organism=Homo sapiens] [GeneID=8290]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_003484.1	WP_015790767.1	29.032	62	39	1	67	128	8	64	0.031	27.7
+NP_003484.1	WP_015791414.1	29.032	62	39	1	67	128	8	64	0.039	27.3
+NP_003484.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.61	25.0
+NP_003484.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	2.4	23.5
+NP_003484.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	7.0	21.9
+NP_003484.1	WP_015791783.1	32.558	43	19	2	63	105	322	354	7.4	21.9
+# BLASTP 2.14.0+
+# Query: NP_001363866.1 H3C4 [organism=Homo sapiens] [GeneID=8351]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_001363866.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_001363866.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_001363866.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_001363866.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_001363866.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_001363866.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_001363866.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_001363866.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_001363866.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003524.1 H3C11 [organism=Homo sapiens] [GeneID=8354]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003524.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003524.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003524.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003524.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003524.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003524.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003524.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003524.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003524.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003528.1 H3C2 [organism=Homo sapiens] [GeneID=8358]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003528.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003528.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003528.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003528.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003528.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003528.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003528.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003528.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003528.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003527.1 H3C10 [organism=Homo sapiens] [GeneID=8357]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003527.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003527.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003527.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003527.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003527.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003527.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003527.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003527.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003527.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003523.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003523.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003523.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003523.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003523.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003523.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003523.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003523.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003523.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003523.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003525.1 H3C8 [organism=Homo sapiens] [GeneID=8355]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003525.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003525.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003525.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003525.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003525.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003525.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003525.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003525.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003525.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLASTP 2.14.0+
+# Query: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+NP_003520.1	WP_015790767.1	30.645	62	38	1	67	128	8	64	0.034	27.3
+NP_003520.1	WP_015791414.1	30.645	62	38	1	67	128	8	64	0.043	26.9
+NP_003520.1	WP_015791078.1	50.000	22	11	0	47	68	105	126	0.59	25.0
+NP_003520.1	WP_015791149.1	50.000	16	8	0	111	126	48	63	1.0	24.6
+NP_003520.1	WP_015791783.1	34.884	43	18	2	63	105	322	354	4.4	22.7
+NP_003520.1	WP_015791973.1	25.000	36	27	0	75	110	279	314	6.1	22.3
+NP_003520.1	WP_015791106.1	27.692	65	43	1	69	133	354	414	6.5	22.3
+NP_003520.1	WP_015792050.1	61.538	13	5	0	55	67	219	231	6.7	21.9
+NP_003520.1	WP_015791743.1	27.660	47	31	1	55	98	143	189	9.9	21.6
+# BLAST processed 14 queries

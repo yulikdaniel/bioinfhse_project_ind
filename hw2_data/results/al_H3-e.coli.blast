@@ -1,0 +1,140 @@
+# BLASTP 2.14.0+
+# Query: NP_003521.2 H3C4 [organism=Homo sapiens] [GeneID=8351]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003521.2	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003521.2	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003521.2	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003521.2	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003521.2	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003522.1 H3C3 [organism=Homo sapiens] [GeneID=8352]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003522.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003522.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003522.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003522.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003522.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003526.1 H3C12 [organism=Homo sapiens] [GeneID=8356]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003526.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003526.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003526.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003526.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003526.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_066298.1 H3C7 [organism=Homo sapiens] [GeneID=8968]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_066298.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_066298.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_066298.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_066298.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_066298.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_066403.2 H3C14 [organism=Homo sapiens] [GeneID=126961]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_066403.2	NP_416349.2	31.250	64	31	1	50	100	362	425	0.91	26.2
+NP_066403.2	NP_417429.1	33.824	68	36	4	72	133	14	78	1.3	25.4
+NP_066403.2	NP_415118.1	34.211	38	25	0	47	84	125	162	3.2	24.6
+NP_066403.2	NP_416867.1	34.375	32	21	0	47	78	20	51	5.6	23.9
+NP_066403.2	NP_415134.1	43.478	23	13	0	39	61	60	82	9.2	23.1
+NP_066403.2	NP_418105.1	47.619	21	10	1	114	133	117	137	10.0	22.7
+# BLASTP 2.14.0+
+# Query: NP_001368928.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_001368928.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_001368928.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_001368928.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_001368928.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_001368928.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003484.1 H3-4 [organism=Homo sapiens] [GeneID=8290]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+NP_003484.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.67	26.6
+NP_003484.1	NP_415118.1	28.070	57	38	1	47	100	125	181	4.6	24.3
+NP_003484.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.2	23.1
+# BLASTP 2.14.0+
+# Query: NP_001363866.1 H3C4 [organism=Homo sapiens] [GeneID=8351]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_001363866.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_001363866.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_001363866.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_001363866.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_001363866.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003524.1 H3C11 [organism=Homo sapiens] [GeneID=8354]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003524.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003524.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003524.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003524.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003524.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003528.1 H3C2 [organism=Homo sapiens] [GeneID=8358]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003528.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003528.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003528.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003528.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003528.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003527.1 H3C10 [organism=Homo sapiens] [GeneID=8357]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003527.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003527.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003527.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003527.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003527.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003523.1 H3C6 [organism=Homo sapiens] [GeneID=8353]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003523.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003523.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003523.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003523.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003523.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003525.1 H3C8 [organism=Homo sapiens] [GeneID=8355]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003525.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003525.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003525.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003525.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003525.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLASTP 2.14.0+
+# Query: NP_003520.1 H3C1 [organism=Homo sapiens] [GeneID=8350]
+# Database: hw2_data/proteomes/e.coli.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003520.1	NP_416349.2	34.091	44	29	0	50	93	362	405	0.90	26.2
+NP_003520.1	NP_415118.1	34.211	38	25	0	47	84	125	162	3.9	24.3
+NP_003520.1	NP_416867.1	34.375	32	21	0	47	78	20	51	5.2	23.9
+NP_003520.1	NP_415134.1	43.478	23	13	0	39	61	60	82	9.5	23.1
+NP_003520.1	NP_418105.1	47.619	21	10	1	114	133	117	137	9.7	22.7
+# BLAST processed 14 queries

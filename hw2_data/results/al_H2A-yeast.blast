@@ -1,0 +1,570 @@
+# BLASTP 2.14.0+
+# Query: NP_734466.1 H2AC1 [organism=Homo sapiens] [GeneID=221613]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+NP_734466.1	NP_010511.3	83.962	106	17	0	16	121	17	122	8.88e-63	186
+NP_734466.1	NP_009552.1	83.962	106	17	0	16	121	17	122	8.88e-63	186
+NP_734466.1	NP_014631.1	60.000	120	44	3	3	119	8	126	9.11e-37	120
+NP_734466.1	NP_011086.3	22.826	92	71	0	20	111	47	138	1.50e-05	40.0
+NP_734466.1	NP_015003.1	25.490	51	38	0	26	76	160	210	0.23	28.5
+NP_734466.1	NP_012724.1	31.579	38	26	0	89	126	342	379	1.8	26.2
+NP_734466.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.4	25.8
+NP_734466.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.4	25.0
+NP_734466.1	NP_013302.1	21.154	52	41	0	13	64	207	258	5.4	24.6
+NP_734466.1	NP_683716.1	29.412	34	24	0	64	97	288	321	6.8	24.6
+# BLASTP 2.14.0+
+# Query: XP_011542036.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X4]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+XP_011542036.1	NP_009552.1	67.273	110	36	0	14	123	18	127	6.53e-48	151
+XP_011542036.1	NP_010511.3	70.192	104	31	0	14	117	18	121	6.67e-48	151
+XP_011542036.1	NP_014631.1	57.798	109	40	4	17	121	27	133	4.18e-34	116
+XP_011542036.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.003	34.7
+XP_011542036.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.9	27.3
+XP_011542036.1	NP_013531.3	29.577	71	33	2	109	162	2	72	2.6	26.9
+XP_011542036.1	NP_012859.1	22.093	86	58	2	87	172	79	155	3.7	26.2
+XP_011542036.1	NP_010606.1	33.333	57	31	2	121	176	507	557	4.8	25.8
+XP_011542036.1	NP_012921.3	28.889	45	32	0	132	176	178	222	8.1	25.4
+XP_011542036.1	NP_011946.1	27.184	103	70	4	1	102	28	126	8.9	25.0
+# BLASTP 2.14.0+
+# Query: XP_054209812.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X5]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+XP_054209812.1	NP_009552.1	67.273	110	36	0	14	123	18	127	6.58e-48	151
+XP_054209812.1	NP_010511.3	70.192	104	31	0	14	117	18	121	6.88e-48	151
+XP_054209812.1	NP_014631.1	57.798	109	40	4	17	121	27	133	3.88e-34	116
+XP_054209812.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.002	35.0
+XP_054209812.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.7	27.3
+XP_054209812.1	NP_012921.3	29.787	47	33	0	132	178	178	224	2.0	26.9
+XP_054209812.1	NP_010606.1	29.091	55	35	1	121	175	507	557	3.7	26.2
+XP_054209812.1	NP_013531.3	30.000	70	32	2	109	161	2	71	3.8	26.2
+XP_054209812.1	NP_012859.1	24.138	58	43	1	87	144	79	135	5.1	25.8
+XP_054209812.1	NP_011946.1	27.184	103	70	4	1	102	28	126	8.8	25.0
+# BLASTP 2.14.0+
+# Query: NP_066390.1 H2AC8 [organism=Homo sapiens] [GeneID=3012]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_066390.1	NP_010511.3	80.357	112	22	0	16	127	17	128	1.19e-62	186
+NP_066390.1	NP_009552.1	80.357	112	22	0	16	127	17	128	1.19e-62	186
+NP_066390.1	NP_014631.1	57.812	128	43	4	1	119	1	126	8.03e-39	125
+NP_066390.1	NP_011086.3	25.000	92	69	0	20	111	47	138	5.72e-05	38.5
+NP_066390.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.59	27.3
+NP_066390.1	NP_011003.1	27.143	70	39	1	62	119	343	412	3.3	25.4
+NP_066390.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+NP_066390.1	NP_015068.1	30.233	43	30	0	64	106	342	384	6.4	24.6
+# BLASTP 2.14.0+
+# Query: NP_001387330.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_001387330.1	NP_009552.1	67.273	110	36	0	14	123	18	127	1.07e-45	151
+NP_001387330.1	NP_010511.3	70.192	104	31	0	14	117	18	121	1.17e-45	151
+NP_001387330.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.60e-32	116
+NP_001387330.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+NP_001387330.1	NP_013074.1	26.087	46	34	0	55	100	90	135	6.4	26.9
+NP_001387330.1	NP_015090.1	48.148	27	14	0	191	217	133	159	8.2	25.8
+# BLASTP 2.14.0+
+# Query: XP_054209810.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X3]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_054209810.1	NP_009552.1	67.273	110	36	0	14	123	18	127	8.14e-48	150
+XP_054209810.1	NP_010511.3	70.192	104	31	0	14	117	18	121	8.60e-48	150
+XP_054209810.1	NP_014631.1	57.798	109	40	4	17	121	27	133	3.63e-34	116
+XP_054209810.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.002	35.0
+XP_054209810.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.8	27.3
+XP_054209810.1	NP_010606.1	29.091	55	35	1	121	175	507	557	4.2	26.2
+XP_054209810.1	NP_013531.3	30.000	70	32	2	109	161	2	71	4.5	26.2
+XP_054209810.1	NP_012859.1	24.138	58	43	1	87	144	79	135	5.7	25.8
+XP_054209810.1	NP_011946.1	27.184	103	70	4	1	102	28	126	9.4	25.0
+# BLASTP 2.14.0+
+# Query: NP_001387332.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=4]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_001387332.1	NP_009552.1	67.273	110	36	0	14	123	18	127	7.47e-46	151
+NP_001387332.1	NP_010511.3	70.192	104	31	0	14	117	18	121	8.14e-46	151
+NP_001387332.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.16e-32	116
+NP_001387332.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+NP_001387332.1	NP_013074.1	26.087	46	34	0	55	100	90	135	7.8	26.6
+NP_001387332.1	NP_014408.1	25.000	56	38	1	162	213	652	707	8.2	26.6
+NP_001387332.1	NP_013646.1	30.556	72	29	2	116	166	306	377	8.2	26.6
+NP_001387332.1	NP_012529.3	20.000	75	54	1	298	366	1879	1953	8.8	26.6
+# BLASTP 2.14.0+
+# Query: NP_036544.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=1]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 11 hits found
+NP_036544.1	NP_014631.1	73.832	107	25	1	23	126	28	134	2.60e-51	157
+NP_036544.1	NP_010511.3	58.182	110	44	2	19	127	18	126	9.64e-39	125
+NP_036544.1	NP_009552.1	60.000	105	40	2	19	122	18	121	1.96e-38	124
+NP_036544.1	NP_011086.3	27.397	73	52	1	28	100	53	124	0.011	32.0
+NP_036544.1	NP_012122.3	33.333	36	24	0	16	51	48	83	0.47	27.7
+NP_036544.1	NP_011772.3	33.333	42	22	1	75	116	61	96	2.4	25.8
+NP_036544.1	NP_009788.3	39.130	23	14	0	18	40	656	678	4.1	25.0
+NP_036544.1	NP_012455.1	33.333	42	24	1	55	96	578	615	5.7	24.6
+NP_036544.1	NP_014025.1	21.333	75	56	1	44	115	374	448	6.9	24.3
+NP_036544.1	NP_012521.3	36.842	38	21	1	59	96	377	411	7.5	24.3
+NP_036544.1	NP_012448.1	26.786	56	41	0	71	126	615	670	9.4	24.3
+# BLASTP 2.14.0+
+# Query: NP_066544.1 H2AC14 [organism=Homo sapiens] [GeneID=8331]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_066544.1	NP_010511.3	83.962	106	17	0	16	121	17	122	6.99e-63	186
+NP_066544.1	NP_009552.1	83.962	106	17	0	16	121	17	122	6.99e-63	186
+NP_066544.1	NP_014631.1	57.031	128	44	4	1	119	1	126	3.75e-38	124
+NP_066544.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.34e-05	38.9
+NP_066544.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.38	28.1
+NP_066544.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.6	25.8
+NP_066544.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.4	25.0
+NP_066544.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+# BLASTP 2.14.0+
+# Query: XP_054209811.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X4]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+XP_054209811.1	NP_009552.1	67.273	110	36	0	14	123	18	127	6.53e-48	151
+XP_054209811.1	NP_010511.3	70.192	104	31	0	14	117	18	121	6.67e-48	151
+XP_054209811.1	NP_014631.1	57.798	109	40	4	17	121	27	133	4.18e-34	116
+XP_054209811.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.003	34.7
+XP_054209811.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.9	27.3
+XP_054209811.1	NP_013531.3	29.577	71	33	2	109	162	2	72	2.6	26.9
+XP_054209811.1	NP_012859.1	22.093	86	58	2	87	172	79	155	3.7	26.2
+XP_054209811.1	NP_010606.1	33.333	57	31	2	121	176	507	557	4.8	25.8
+XP_054209811.1	NP_012921.3	28.889	45	32	0	132	176	178	222	8.1	25.4
+XP_054209811.1	NP_011946.1	27.184	103	70	4	1	102	28	126	8.9	25.0
+# BLASTP 2.14.0+
+# Query: NP_619541.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=2]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_619541.1	NP_014631.1	79.070	86	18	0	23	108	28	113	4.36e-44	138
+NP_619541.1	NP_010511.3	60.440	91	34	2	19	108	18	107	6.04e-31	105
+NP_619541.1	NP_009552.1	60.440	91	34	2	19	108	18	107	6.04e-31	105
+NP_619541.1	NP_011086.3	26.923	78	56	1	23	100	48	124	0.009	32.0
+NP_619541.1	NP_012122.3	33.333	36	24	0	16	51	48	83	0.35	27.7
+NP_619541.1	NP_009788.3	39.130	23	14	0	18	40	656	678	3.2	25.0
+NP_619541.1	NP_012455.1	33.333	42	24	1	55	96	578	615	4.5	24.6
+NP_619541.1	NP_012521.3	36.842	38	21	1	59	96	377	411	8.2	23.9
+# BLASTP 2.14.0+
+# Query: NP_066409.1 H2AC7 [organism=Homo sapiens] [GeneID=3013]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_066409.1	NP_010511.3	80.357	112	22	0	16	127	17	128	8.73e-63	186
+NP_066409.1	NP_009552.1	80.357	112	22	0	16	127	17	128	8.73e-63	186
+NP_066409.1	NP_014631.1	57.031	128	44	4	1	119	1	126	2.91e-38	124
+NP_066409.1	NP_011086.3	25.000	92	69	0	20	111	47	138	5.17e-05	38.5
+NP_066409.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.57	27.3
+NP_066409.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.7	25.8
+NP_066409.1	NP_015068.1	30.233	43	30	0	64	106	342	384	5.1	24.6
+NP_066409.1	NP_014387.1	40.000	40	18	2	60	99	43	76	6.0	24.6
+# BLASTP 2.14.0+
+# Query: NP_003503.1 H2AC6 [organism=Homo sapiens] [GeneID=8334]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 11 hits found
+NP_003503.1	NP_010511.3	82.143	112	20	0	16	127	17	128	1.82e-63	187
+NP_003503.1	NP_009552.1	82.143	112	20	0	16	127	17	128	1.82e-63	187
+NP_003503.1	NP_014631.1	57.812	128	43	4	1	119	1	126	8.30e-39	125
+NP_003503.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.86e-05	38.9
+NP_003503.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.33	28.1
+NP_003503.1	NP_011003.1	27.143	70	39	1	62	119	343	412	3.1	25.4
+NP_003503.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+NP_003503.1	NP_015068.1	30.233	43	30	0	64	106	342	384	6.5	24.6
+NP_003503.1	NP_013302.1	21.154	52	41	0	13	64	207	258	7.6	24.3
+NP_003503.1	NP_014115.1	68.750	16	5	0	2	17	89	104	8.6	24.3
+NP_003503.1	NP_010585.3	22.951	61	46	1	51	110	289	349	9.9	23.9
+# BLASTP 2.14.0+
+# Query: NP_808760.1 H2AJ [organism=Homo sapiens] [GeneID=55766]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+NP_808760.1	NP_010511.3	84.906	106	16	0	16	121	17	122	1.22e-63	188
+NP_808760.1	NP_009552.1	84.906	106	16	0	16	121	17	122	1.22e-63	188
+NP_808760.1	NP_014631.1	57.031	128	44	4	1	119	1	126	3.81e-38	124
+NP_808760.1	NP_011086.3	25.000	92	69	0	20	111	47	138	4.40e-05	38.5
+NP_808760.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.43	27.7
+NP_808760.1	NP_011003.1	27.143	70	39	1	62	119	343	412	3.1	25.4
+NP_808760.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.9	25.0
+NP_808760.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.4	24.6
+NP_808760.1	NP_013317.1	41.667	36	19	1	91	126	157	190	8.4	24.3
+NP_808760.1	NP_012724.1	29.730	37	26	0	89	125	342	378	8.6	24.3
+NP_808760.1	NP_013302.1	21.154	52	41	0	13	64	207	258	9.3	23.9
+NP_808760.1	NP_014241.1	47.368	19	10	0	111	129	111	129	9.3	23.9
+# BLASTP 2.14.0+
+# Query: NP_003505.1 H2AC17 [organism=Homo sapiens] [GeneID=8336]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_003505.1	NP_010511.3	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003505.1	NP_009552.1	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003505.1	NP_014631.1	57.031	128	44	4	1	119	1	126	4.09e-38	124
+NP_003505.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.70e-05	38.9
+NP_003505.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.36	28.1
+NP_003505.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.4	25.8
+NP_003505.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.9	25.0
+NP_003505.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+# BLASTP 2.14.0+
+# Query: NP_003502.1 H2AC16 [organism=Homo sapiens] [GeneID=8332]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_003502.1	NP_010511.3	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003502.1	NP_009552.1	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003502.1	NP_014631.1	57.031	128	44	4	1	119	1	126	4.09e-38	124
+NP_003502.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.70e-05	38.9
+NP_003502.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.36	28.1
+NP_003502.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.4	25.8
+NP_003502.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.9	25.0
+NP_003502.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+# BLASTP 2.14.0+
+# Query: NP_004884.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=2]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_004884.1	NP_009552.1	67.273	110	36	0	14	123	18	127	9.52e-46	151
+NP_004884.1	NP_010511.3	70.192	104	31	0	14	117	18	121	1.06e-45	151
+NP_004884.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.50e-32	116
+NP_004884.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+NP_004884.1	NP_013074.1	26.087	46	34	0	55	100	90	135	6.6	26.9
+NP_004884.1	NP_013646.1	30.556	72	29	2	116	166	306	377	7.6	26.6
+NP_004884.1	NP_015090.1	48.148	27	14	0	190	216	133	159	8.4	25.8
+# BLASTP 2.14.0+
+# Query: NP_003504.2 H2AC4 [organism=Homo sapiens] [GeneID=8335]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_003504.2	NP_010511.3	80.357	112	22	0	16	127	17	128	1.19e-62	186
+NP_003504.2	NP_009552.1	80.357	112	22	0	16	127	17	128	1.19e-62	186
+NP_003504.2	NP_014631.1	57.812	128	43	4	1	119	1	126	8.03e-39	125
+NP_003504.2	NP_011086.3	25.000	92	69	0	20	111	47	138	5.72e-05	38.5
+NP_003504.2	NP_015003.1	23.529	51	39	0	26	76	160	210	0.59	27.3
+NP_003504.2	NP_011003.1	27.143	70	39	1	62	119	343	412	3.3	25.4
+NP_003504.2	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+NP_003504.2	NP_015068.1	30.233	43	30	0	64	106	342	384	6.4	24.6
+# BLASTP 2.14.0+
+# Query: NP_066408.1 H2AC11 [organism=Homo sapiens] [GeneID=8969]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_066408.1	NP_010511.3	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_066408.1	NP_009552.1	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_066408.1	NP_014631.1	57.031	128	44	4	1	119	1	126	4.09e-38	124
+NP_066408.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.70e-05	38.9
+NP_066408.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.36	28.1
+NP_066408.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.4	25.8
+NP_066408.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.9	25.0
+NP_066408.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+# BLASTP 2.14.0+
+# Query: NP_003507.1 H2AC18 [organism=Homo sapiens] [GeneID=8337]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+NP_003507.1	NP_010511.3	81.250	112	21	0	16	127	17	128	1.78e-63	187
+NP_003507.1	NP_009552.1	81.250	112	21	0	16	127	17	128	1.78e-63	187
+NP_003507.1	NP_014631.1	56.250	128	45	4	1	119	1	126	5.14e-38	123
+NP_003507.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.42e-05	38.9
+NP_003507.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.46	27.7
+NP_003507.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.5	25.8
+NP_003507.1	NP_015068.1	30.233	43	30	0	64	106	342	384	5.0	24.6
+NP_003507.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.7	24.6
+NP_003507.1	NP_014855.3	52.174	23	9	1	40	62	314	334	8.1	24.3
+NP_003507.1	NP_014115.1	68.750	16	5	0	2	17	89	104	8.7	24.3
+# BLASTP 2.14.0+
+# Query: XP_011542032.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X1]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+XP_011542032.1	NP_009552.1	67.273	110	36	0	14	123	18	127	9.52e-46	151
+XP_011542032.1	NP_010511.3	70.192	104	31	0	14	117	18	121	1.06e-45	151
+XP_011542032.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.50e-32	116
+XP_011542032.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+XP_011542032.1	NP_013074.1	26.087	46	34	0	55	100	90	135	6.6	26.9
+XP_011542032.1	NP_013646.1	30.556	72	29	2	116	166	306	377	7.6	26.6
+XP_011542032.1	NP_015090.1	48.148	27	14	0	190	216	133	159	8.4	25.8
+# BLASTP 2.14.0+
+# Query: NP_001387333.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=5]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_001387333.1	NP_010511.3	59.615	52	21	0	14	65	18	69	1.61e-14	65.5
+NP_001387333.1	NP_009552.1	59.615	52	21	0	14	65	18	69	1.61e-14	65.5
+NP_001387333.1	NP_014631.1	50.000	50	24	1	17	65	27	76	8.97e-09	50.1
+NP_001387333.1	NP_009449.1	32.353	34	23	0	34	67	712	745	2.4	26.9
+NP_001387333.1	NP_012529.3	20.000	75	54	1	130	198	1879	1953	2.5	26.9
+NP_001387333.1	NP_015527.1	31.250	48	31	1	108	155	327	372	7.8	25.4
+# BLASTP 2.14.0+
+# Query: XP_011542037.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X5]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+XP_011542037.1	NP_009552.1	67.273	110	36	0	14	123	18	127	6.58e-48	151
+XP_011542037.1	NP_010511.3	70.192	104	31	0	14	117	18	121	6.88e-48	151
+XP_011542037.1	NP_014631.1	57.798	109	40	4	17	121	27	133	3.88e-34	116
+XP_011542037.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.002	35.0
+XP_011542037.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.7	27.3
+XP_011542037.1	NP_012921.3	29.787	47	33	0	132	178	178	224	2.0	26.9
+XP_011542037.1	NP_010606.1	29.091	55	35	1	121	175	507	557	3.7	26.2
+XP_011542037.1	NP_013531.3	30.000	70	32	2	109	161	2	71	3.8	26.2
+XP_011542037.1	NP_012859.1	24.138	58	43	1	87	144	79	135	5.1	25.8
+XP_011542037.1	NP_011946.1	27.184	103	70	4	1	102	28	126	8.8	25.0
+# BLASTP 2.14.0+
+# Query: NP_001035248.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=2]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_001035248.1	NP_009552.1	67.273	110	36	0	14	123	18	127	9.52e-46	151
+NP_001035248.1	NP_010511.3	70.192	104	31	0	14	117	18	121	1.06e-45	151
+NP_001035248.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.50e-32	116
+NP_001035248.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+NP_001035248.1	NP_013074.1	26.087	46	34	0	55	100	90	135	6.6	26.9
+NP_001035248.1	NP_013646.1	30.556	72	29	2	116	166	306	377	7.6	26.6
+NP_001035248.1	NP_015090.1	48.148	27	14	0	190	216	133	159	8.4	25.8
+# BLASTP 2.14.0+
+# Query: XP_054209809.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X2]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_054209809.1	NP_009552.1	67.273	110	36	0	14	123	18	127	7.98e-48	151
+XP_054209809.1	NP_010511.3	70.192	104	31	0	14	117	18	121	8.25e-48	151
+XP_054209809.1	NP_014631.1	57.798	109	40	4	17	121	27	133	3.25e-34	116
+XP_054209809.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.002	35.0
+XP_054209809.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.9	27.3
+XP_054209809.1	NP_013531.3	29.577	71	33	2	109	162	2	72	3.2	26.6
+XP_054209809.1	NP_012859.1	22.093	86	58	2	87	172	79	155	4.5	26.2
+XP_054209809.1	NP_010606.1	33.333	57	31	2	121	176	507	557	5.7	25.8
+XP_054209809.1	NP_011946.1	27.184	103	70	4	1	102	28	126	9.5	25.0
+# BLASTP 2.14.0+
+# Query: NP_958925.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=5]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_958925.1	NP_014631.1	76.923	65	12	1	27	88	70	134	1.44e-29	100
+NP_958925.1	NP_010511.3	57.812	64	26	1	27	89	63	126	2.98e-20	76.6
+NP_958925.1	NP_009552.1	61.017	59	22	1	27	84	63	121	6.95e-20	75.9
+NP_958925.1	NP_011772.3	33.333	42	22	1	37	78	61	96	1.9	25.0
+NP_958925.1	NP_013501.1	30.000	50	29	1	6	55	713	756	2.6	24.6
+NP_958925.1	NP_012448.1	26.786	56	41	0	33	88	615	670	4.3	24.3
+NP_958925.1	NP_011883.1	33.333	63	35	1	5	67	66	121	4.6	23.9
+NP_958925.1	NP_012455.1	35.484	31	20	0	28	58	585	615	5.2	23.9
+# BLASTP 2.14.0+
+# Query: NP_958924.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=4]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_958924.1	NP_014631.1	68.182	44	14	0	23	66	28	71	2.86e-15	63.2
+NP_958924.1	NP_010511.3	56.250	48	20	1	19	66	18	64	9.61e-12	53.9
+NP_958924.1	NP_009552.1	56.250	48	20	1	19	66	18	64	9.61e-12	53.9
+NP_958924.1	NP_012122.3	33.333	36	24	0	16	51	48	83	0.052	28.5
+NP_958924.1	NP_009788.3	39.130	23	14	0	18	40	656	678	0.84	25.0
+NP_958924.1	NP_010283.3	38.462	26	12	1	30	55	119	140	5.9	22.7
+NP_958924.1	NP_010043.1	26.923	26	19	0	33	58	367	392	7.4	22.3
+# BLASTP 2.14.0+
+# Query: NP_003508.1 H2AC20 [organism=Homo sapiens] [GeneID=8338]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+NP_003508.1	NP_010511.3	83.962	106	17	0	16	121	17	122	2.57e-63	187
+NP_003508.1	NP_009552.1	83.962	106	17	0	16	121	17	122	2.57e-63	187
+NP_003508.1	NP_014631.1	56.250	128	45	4	1	119	1	126	3.06e-38	124
+NP_003508.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.45e-05	38.9
+NP_003508.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.59	27.3
+NP_003508.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.7	25.8
+NP_003508.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.8	25.0
+NP_003508.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.5	24.6
+NP_003508.1	NP_014855.3	52.174	23	9	1	40	62	314	334	8.0	24.3
+NP_003508.1	NP_014115.1	68.750	16	5	0	2	17	89	104	8.2	24.3
+# BLASTP 2.14.0+
+# Query: NP_002096.1 H2AX [organism=Homo sapiens] [GeneID=3014]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 14 hits found
+NP_002096.1	NP_010511.3	75.591	127	19	1	16	142	17	131	3.84e-64	190
+NP_002096.1	NP_009552.1	82.569	109	19	0	16	124	17	125	3.18e-63	187
+NP_002096.1	NP_014631.1	59.167	120	45	3	3	119	8	126	5.47e-37	121
+NP_002096.1	NP_011086.3	26.087	92	68	0	20	111	47	138	1.64e-06	42.7
+NP_002096.1	NP_015003.1	22.222	72	50	1	5	76	145	210	0.24	28.9
+NP_002096.1	NP_013086.1	28.571	112	54	5	43	136	673	776	0.58	28.1
+NP_002096.1	NP_011003.1	25.556	90	55	1	62	139	343	432	1.3	26.9
+NP_002096.1	NP_010510.3	24.096	83	56	1	7	89	28	103	2.6	25.4
+NP_002096.1	NP_015068.1	30.233	43	30	0	64	106	342	384	3.7	25.4
+NP_002096.1	NP_014387.1	40.000	40	18	2	60	99	43	76	6.4	24.6
+NP_002096.1	NP_013317.1	44.118	34	17	1	91	124	157	188	6.5	24.6
+NP_002096.1	NP_013302.1	21.154	52	41	0	13	64	207	258	8.1	24.3
+NP_002096.1	NP_015076.1	27.660	47	32	1	83	127	656	702	8.2	24.6
+NP_002096.1	NP_009553.1	23.729	59	45	0	31	89	45	103	9.6	23.9
+# BLASTP 2.14.0+
+# Query: NP_542451.1 H2AB3 [organism=Homo sapiens] [GeneID=83740]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_542451.1	NP_010511.3	48.315	89	46	0	21	109	18	106	1.20e-23	86.3
+NP_542451.1	NP_009552.1	48.315	89	46	0	21	109	18	106	1.20e-23	86.3
+NP_542451.1	NP_014631.1	36.792	106	56	2	14	108	7	112	2.07e-14	62.8
+NP_542451.1	NP_015461.1	51.724	29	13	1	53	80	818	846	1.1	26.6
+NP_542451.1	NP_014515.2	32.353	34	23	0	12	45	21	54	2.3	25.4
+NP_542451.1	NP_015438.1	28.000	75	38	3	25	84	146	219	5.3	24.3
+NP_542451.1	NP_011764.3	22.449	49	38	0	12	60	148	196	7.7	23.9
+# BLASTP 2.14.0+
+# Query: NP_001387331.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_001387331.1	NP_009552.1	67.273	110	36	0	14	123	18	127	1.07e-45	151
+NP_001387331.1	NP_010511.3	70.192	104	31	0	14	117	18	121	1.17e-45	151
+NP_001387331.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.60e-32	116
+NP_001387331.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+NP_001387331.1	NP_013074.1	26.087	46	34	0	55	100	90	135	6.4	26.9
+NP_001387331.1	NP_015090.1	48.148	27	14	0	191	217	133	159	8.2	25.8
+# BLASTP 2.14.0+
+# Query: NP_061119.1 MACROH2A2 [organism=Homo sapiens] [GeneID=55506]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_061119.1	NP_010511.3	65.789	114	37	1	14	125	18	131	8.67e-46	151
+NP_061119.1	NP_009552.1	65.766	111	38	0	14	124	18	128	1.12e-45	151
+NP_061119.1	NP_014631.1	56.481	108	43	3	17	121	27	133	2.88e-31	113
+NP_061119.1	NP_011086.3	22.353	85	66	0	23	107	53	137	0.007	34.7
+NP_061119.1	NP_009565.1	32.075	53	28	1	272	324	44	88	0.28	30.8
+NP_061119.1	NP_013852.1	29.126	103	56	4	96	185	286	384	0.40	30.4
+NP_061119.1	NP_013074.1	26.190	84	50	1	25	96	48	131	0.63	30.0
+NP_061119.1	NP_011840.1	37.209	43	25	1	144	184	260	302	9.0	26.6
+# BLASTP 2.14.0+
+# Query: NP_613258.2 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_613258.2	NP_009552.1	67.273	110	36	0	14	123	18	127	1.07e-45	151
+NP_613258.2	NP_010511.3	70.192	104	31	0	14	117	18	121	1.17e-45	151
+NP_613258.2	NP_014631.1	57.798	109	40	4	17	121	27	133	2.60e-32	116
+NP_613258.2	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+NP_613258.2	NP_013074.1	26.087	46	34	0	55	100	90	135	6.4	26.9
+NP_613258.2	NP_015090.1	48.148	27	14	0	191	217	133	159	8.2	25.8
+# BLASTP 2.14.0+
+# Query: XP_005272191.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X2]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_005272191.1	NP_009552.1	67.273	110	36	0	14	123	18	127	7.98e-48	151
+XP_005272191.1	NP_010511.3	70.192	104	31	0	14	117	18	121	8.25e-48	151
+XP_005272191.1	NP_014631.1	57.798	109	40	4	17	121	27	133	3.25e-34	116
+XP_005272191.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.002	35.0
+XP_005272191.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.9	27.3
+XP_005272191.1	NP_013531.3	29.577	71	33	2	109	162	2	72	3.2	26.6
+XP_005272191.1	NP_012859.1	22.093	86	58	2	87	172	79	155	4.5	26.2
+XP_005272191.1	NP_010606.1	33.333	57	31	2	121	176	507	557	5.7	25.8
+XP_005272191.1	NP_011946.1	27.184	103	70	4	1	102	28	126	9.5	25.0
+# BLASTP 2.14.0+
+# Query: NP_613075.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=1]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_613075.1	NP_009552.1	67.273	110	36	0	14	123	18	127	7.33e-46	151
+NP_613075.1	NP_010511.3	70.192	104	31	0	14	117	18	121	7.90e-46	151
+NP_613075.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.17e-32	116
+NP_613075.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+NP_613075.1	NP_013074.1	26.087	46	34	0	55	100	90	135	7.9	26.6
+NP_613075.1	NP_014408.1	25.000	56	38	1	163	214	652	707	8.4	26.6
+NP_613075.1	NP_012529.3	20.000	75	54	1	299	367	1879	1953	9.1	26.6
+# BLASTP 2.14.0+
+# Query: NP_003501.1 H2AC15 [organism=Homo sapiens] [GeneID=8330]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_003501.1	NP_010511.3	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003501.1	NP_009552.1	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003501.1	NP_014631.1	57.031	128	44	4	1	119	1	126	4.09e-38	124
+NP_003501.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.70e-05	38.9
+NP_003501.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.36	28.1
+NP_003501.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.4	25.8
+NP_003501.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.9	25.0
+NP_003501.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+# BLASTP 2.14.0+
+# Query: NP_003500.1 H2AC13 [organism=Homo sapiens] [GeneID=8329]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_003500.1	NP_010511.3	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003500.1	NP_009552.1	81.250	112	21	0	16	127	17	128	3.96e-63	187
+NP_003500.1	NP_014631.1	57.031	128	44	4	1	119	1	126	4.09e-38	124
+NP_003500.1	NP_011086.3	25.000	92	69	0	20	111	47	138	3.70e-05	38.9
+NP_003500.1	NP_015003.1	23.529	51	39	0	26	76	160	210	0.36	28.1
+NP_003500.1	NP_011003.1	27.143	70	39	1	62	119	343	412	2.4	25.8
+NP_003500.1	NP_015068.1	30.233	43	30	0	64	106	342	384	4.9	25.0
+NP_003500.1	NP_014387.1	40.000	40	18	2	60	99	43	76	5.6	24.6
+# BLASTP 2.14.0+
+# Query: NP_958844.1 H2AZ2 [organism=Homo sapiens] [GeneID=94239] [isoform=3]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+NP_958844.1	NP_014631.1	72.549	102	25	1	2	100	33	134	1.23e-47	146
+NP_958844.1	NP_010511.3	57.426	101	41	2	2	101	27	126	9.84e-35	114
+NP_958844.1	NP_009552.1	59.375	96	37	2	2	96	27	121	2.33e-34	113
+NP_958844.1	NP_011086.3	27.397	73	52	1	2	74	53	124	0.003	32.7
+NP_958844.1	NP_011772.3	33.333	45	24	1	49	93	61	99	1.5	25.8
+NP_958844.1	NP_012455.1	33.333	42	24	1	29	70	578	615	2.6	25.0
+NP_958844.1	NP_014025.1	21.333	75	56	1	18	89	374	448	4.2	24.3
+NP_958844.1	NP_012521.3	36.842	38	21	1	33	70	377	411	4.5	24.3
+NP_958844.1	NP_014670.1	35.294	34	22	0	19	52	350	383	5.4	24.3
+NP_958844.1	NP_012448.1	26.786	56	41	0	45	100	615	670	5.7	24.3
+# BLASTP 2.14.0+
+# Query: XP_054209808.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X1]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+XP_054209808.1	NP_009552.1	67.273	110	36	0	14	123	18	127	9.52e-46	151
+XP_054209808.1	NP_010511.3	70.192	104	31	0	14	117	18	121	1.06e-45	151
+XP_054209808.1	NP_014631.1	57.798	109	40	4	17	121	27	133	2.50e-32	116
+XP_054209808.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.004	35.4
+XP_054209808.1	NP_013074.1	26.087	46	34	0	55	100	90	135	6.6	26.9
+XP_054209808.1	NP_013646.1	30.556	72	29	2	116	166	306	377	7.6	26.6
+XP_054209808.1	NP_015090.1	48.148	27	14	0	190	216	133	159	8.4	25.8
+# BLASTP 2.14.0+
+# Query: NP_002097.1 H2AZ1 [organism=Homo sapiens] [GeneID=3015]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+NP_002097.1	NP_014631.1	73.832	107	25	1	23	126	28	134	2.71e-51	157
+NP_002097.1	NP_010511.3	58.182	110	44	2	19	127	18	126	9.85e-39	125
+NP_002097.1	NP_009552.1	60.000	105	40	2	19	122	18	121	2.14e-38	124
+NP_002097.1	NP_011086.3	26.027	73	53	1	28	100	53	124	0.029	30.8
+NP_002097.1	NP_012122.3	30.556	36	25	0	16	51	48	83	1.5	26.6
+NP_002097.1	NP_011772.3	33.333	42	22	1	75	116	61	96	2.3	25.8
+NP_002097.1	NP_012455.1	33.333	42	24	1	55	96	578	615	5.6	24.6
+NP_002097.1	NP_014025.1	21.333	75	56	1	44	115	374	448	6.9	24.3
+NP_002097.1	NP_012521.3	36.842	38	21	1	59	96	377	411	8.2	24.3
+NP_002097.1	NP_012448.1	26.786	56	41	0	71	126	615	670	9.4	24.3
+# BLASTP 2.14.0+
+# Query: NP_001017990.1 H2AB1 [organism=Homo sapiens] [GeneID=474382]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+NP_001017990.1	NP_010511.3	47.191	89	47	0	21	109	18	106	1.75e-22	83.6
+NP_001017990.1	NP_009552.1	47.191	89	47	0	21	109	18	106	1.75e-22	83.6
+NP_001017990.1	NP_014631.1	35.849	106	57	2	14	108	7	112	2.01e-13	60.1
+NP_001017990.1	NP_014515.2	32.353	34	23	0	12	45	21	54	2.5	25.4
+NP_001017990.1	NP_014855.3	52.941	17	8	0	53	69	321	337	6.8	24.3
+NP_001017990.1	NP_014794.3	44.828	29	16	0	56	84	1023	1051	9.0	23.9
+NP_001017990.1	NP_011308.1	40.000	30	18	0	50	79	336	365	9.2	23.9
+NP_001017990.1	NP_011764.3	22.449	49	38	0	12	60	148	196	9.5	23.5
+# BLASTP 2.14.0+
+# Query: XP_005272192.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=X3]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 9 hits found
+XP_005272192.1	NP_009552.1	67.273	110	36	0	14	123	18	127	8.14e-48	150
+XP_005272192.1	NP_010511.3	70.192	104	31	0	14	117	18	121	8.60e-48	150
+XP_005272192.1	NP_014631.1	57.798	109	40	4	17	121	27	133	3.63e-34	116
+XP_005272192.1	NP_011086.3	22.093	86	67	0	23	108	53	138	0.002	35.0
+XP_005272192.1	NP_013074.1	28.571	42	30	0	55	96	90	131	1.8	27.3
+XP_005272192.1	NP_010606.1	29.091	55	35	1	121	175	507	557	4.2	26.2
+XP_005272192.1	NP_013531.3	30.000	70	32	2	109	161	2	71	4.5	26.2
+XP_005272192.1	NP_012859.1	24.138	58	43	1	87	144	79	135	5.7	25.8
+XP_005272192.1	NP_011946.1	27.184	103	70	4	1	102	28	126	9.4	25.0
+# BLAST processed 42 queries
