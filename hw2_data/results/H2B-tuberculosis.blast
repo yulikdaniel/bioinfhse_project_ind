@@ -1,0 +1,11 @@
+# BLASTP 2.14.0+
+# Query: NP_003512.1 H2BC14 [organism=Homo sapiens] [GeneID=8342]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+NP_003512.1	NP_216692.1	34.091	44	29	0	14	57	180	223	2.4	24.6
+NP_003512.1	NP_216831.1	34.146	41	25	1	73	111	41	81	4.2	23.9
+NP_003512.1	NP_215602.1	59.091	22	9	0	93	114	162	183	5.6	23.5
+NP_003512.1	NP_215939.1	28.205	39	28	0	17	55	40	78	8.5	23.1
+NP_003512.1	NP_216384.1	26.471	34	25	0	50	83	33	66	9.8	23.1
+# BLAST processed 1 queries

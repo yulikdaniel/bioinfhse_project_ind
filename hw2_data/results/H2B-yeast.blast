@@ -1,0 +1,12 @@
+# BLASTP 2.14.0+
+# Query: NP_003512.1 H2BC14 [organism=Homo sapiens] [GeneID=8342]
+# Database: hw2_data/proteomes/yeast.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+NP_003512.1	NP_010510.3	70.492	122	34	1	4	125	9	128	1.82e-59	177
+NP_003512.1	NP_009553.1	70.492	122	34	1	4	125	9	128	1.34e-58	175
+NP_003512.1	NP_009532.1	25.806	62	45	1	42	102	47	108	2.8	25.0
+NP_003512.1	NP_015199.1	22.500	40	31	0	3	42	401	440	4.2	25.0
+NP_003512.1	NP_014036.1	25.490	51	38	0	21	71	1429	1479	4.7	25.0
+NP_003512.1	NP_014660.1	25.000	64	41	2	68	126	496	557	7.6	24.3
+# BLAST processed 1 queries

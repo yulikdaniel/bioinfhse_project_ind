@@ -1,0 +1,13 @@
+# BLASTP 2.14.0+
+# Query: NP_001387331.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_001387331.1	NP_216415.1	22.699	163	120	2	190	350	164	322	5.29e-09	53.9
+NP_001387331.1	NP_217483.1	33.333	51	31	1	57	107	107	154	0.60	28.9
+NP_001387331.1	NP_215186.1	30.986	71	43	3	123	192	146	211	2.4	26.9
+NP_001387331.1	NP_218111.1	22.680	97	56	3	120	211	187	269	3.3	26.2
+NP_001387331.1	NP_216973.1	35.294	34	22	0	280	313	32	65	3.5	26.6
+NP_001387331.1	NP_214971.1	30.303	66	35	2	164	229	220	274	4.3	26.2
+NP_001387331.1	NP_216656.1	28.049	82	50	4	197	276	64	138	5.7	25.4
+# BLAST processed 1 queries

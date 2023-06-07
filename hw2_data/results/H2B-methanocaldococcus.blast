@@ -1,0 +1,13 @@
+# BLASTP 2.14.0+
+# Query: NP_003512.1 H2BC14 [organism=Homo sapiens] [GeneID=8342]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+NP_003512.1	WP_012794925.1	30.435	23	16	0	68	90	70	92	1.9	23.5
+NP_003512.1	WP_015791028.1	32.353	34	18	1	36	64	434	467	5.9	22.3
+NP_003512.1	WP_015790856.1	57.895	19	8	0	24	42	834	852	6.6	21.9
+NP_003512.1	WP_015791807.1	39.394	33	18	1	86	116	368	400	6.9	21.9
+NP_003512.1	WP_048056308.1	40.000	25	14	1	102	126	381	404	8.1	21.6
+NP_003512.1	WP_015791387.1	28.169	71	49	2	5	75	415	483	8.5	21.6
+NP_003512.1	WP_048056282.1	52.381	21	10	0	9	29	57	77	9.8	21.6
+# BLAST processed 1 queries

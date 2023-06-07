@@ -1,0 +1,10 @@
+# BLASTP 2.14.0+
+# Query: NP_001387331.1 MACROH2A1 [organism=Homo sapiens] [GeneID=9555] [isoform=3]
+# Database: hw2_data/proteomes/methanocaldococcus.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+NP_001387331.1	WP_015791547.1	36.000	25	16	0	200	224	8	32	1.2	25.8
+NP_001387331.1	WP_015791535.1	37.037	54	32	1	74	127	607	658	1.8	25.8
+NP_001387331.1	WP_015792070.1	23.529	34	26	0	332	365	141	174	6.0	24.3
+NP_001387331.1	WP_015791373.1	38.298	47	21	2	35	73	217	263	7.3	23.9
+# BLAST processed 1 queries
